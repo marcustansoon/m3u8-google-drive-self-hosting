@@ -186,7 +186,7 @@ Features include:
 * Subtitle support with synchronization controls
 * Support for live and Video-on-Demand HLS streams
 
-Note: For TV, you might need to send download the apk and send it to your TV. Then install it. You can control it remotely using your mobile phone as well.
+Note: For TV, you might need to send download the apk (check out the `APKs` folder) and send it to your TV via `Send files to TV` app. Then install it. You can control it remotely using your mobile phone as well.
 
 ### StreamFinder
 
